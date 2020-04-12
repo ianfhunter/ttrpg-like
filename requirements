@@ -1,3 +1,7 @@
 numpy
 discord.py
 pillow
+xlsxwriter 
+tinydb
+jsonstruct
+datetime
